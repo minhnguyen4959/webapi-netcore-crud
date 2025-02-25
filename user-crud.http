@@ -1,0 +1,6 @@
+@user_crud_HostAddress = http://localhost:9999
+###
+GET {{user_crud_HostAddress}}/api/users
+Accept: application/json
+
+###

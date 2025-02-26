@@ -9,6 +9,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{F3A1436D-310A-4ACE-B632-886268C922BF}|user-crud.csproj|d:\\minh-meiko\\netcore\\webapi-netcore-crud\\user-crud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{F3A1436D-310A-4ACE-B632-886268C922BF}|user-crud.csproj|solutionrelative:user-crud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A1436D-310A-4ACE-B632-886268C922BF}|user-crud.csproj|d:\\minh-meiko\\netcore\\webapi-netcore-crud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3A1436D-310A-4ACE-B632-886268C922BF}|user-crud.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A1436D-310A-4ACE-B632-886268C922BF}|user-crud.csproj|d:\\minh-meiko\\netcore\\webapi-netcore-crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3A1436D-310A-4ACE-B632-886268C922BF}|user-crud.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3A1436D-310A-4ACE-B632-886268C922BF}|user-crud.csproj|d:\\minh-meiko\\netcore\\webapi-netcore-crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3A1436D-310A-4ACE-B632-886268C922BF}|user-crud.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +30,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\minh-meiko\\netcore\\webapi-netcore-crud\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\minh-meiko\\netcore\\webapi-netcore-crud\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T10:01:42.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\minh-meiko\\netcore\\webapi-netcore-crud\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\minh-meiko\\netcore\\webapi-netcore-crud\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:01:17.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\minh-meiko\\netcore\\webapi-netcore-crud\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\minh-meiko\\netcore\\webapi-netcore-crud\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T10:01:17.017Z"
             },
             {
               "$type": "Document",
@@ -34,7 +83,8 @@
               "RelativeToolTip": "user-crud.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-25T01:42:50.484Z"
+              "WhenOpened": "2025-02-25T01:42:50.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -44,7 +94,7 @@
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "D:\\minh-meiko\\netcore\\webapi-netcore-crud\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBAAAAAtAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAA6wC0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T01:42:17.929Z",
               "EditorCaption": ""

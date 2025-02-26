@@ -18,8 +18,11 @@ var app = builder.Build();
 // Kiểm tra nếu đang ở môi trường Development thì bật Swagger
 //if (app.Environment.IsDevelopment())
 //{
-    
+
 //}
+
+var port = Environment.GetEnvironmentVariable("PORT") ?? "5000";
+app.Urls.Add($"http://*:{port}");
 
 app.UseSwagger();
 app.UseSwaggerUI();

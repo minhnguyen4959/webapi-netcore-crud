@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\minh-meiko\\netcore\\user-crud\\user-crud.csproj": {}
+    "D:\\minh-meiko\\netcore\\webapi-netcore-crud\\user-crud.csproj": {}
   },
   "projects": {
-    "D:\\minh-meiko\\netcore\\user-crud\\user-crud.csproj": {
+    "D:\\minh-meiko\\netcore\\webapi-netcore-crud\\user-crud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\minh-meiko\\netcore\\user-crud\\user-crud.csproj",
+        "projectUniqueName": "D:\\minh-meiko\\netcore\\webapi-netcore-crud\\user-crud.csproj",
         "projectName": "user-crud",
-        "projectPath": "D:\\minh-meiko\\netcore\\user-crud\\user-crud.csproj",
+        "projectPath": "D:\\minh-meiko\\netcore\\webapi-netcore-crud\\user-crud.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\minh-meiko\\netcore\\user-crud\\obj\\",
+        "outputPath": "D:\\minh-meiko\\netcore\\webapi-netcore-crud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

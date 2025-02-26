@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace user_crud.Controllers
 {
-	[Route("api/users")]
+	[Route("api/users-abc")]
 	[ApiController]
 	public class UserController : ControllerBase
 	{
